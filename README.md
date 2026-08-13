@@ -1,4 +1,4 @@
-🔥 DBC aka Discord Bot Client (in Python) 🔥
+🔥 DBC aka Discord Bot Client (in Python)(Unfinished Project) 🔥
 
 
 
