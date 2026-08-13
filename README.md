@@ -5,6 +5,6 @@
 
 🚀 RUN:
 
-pip install customtkinter discord.py pillow requests
+pip install requirements.txt
 
-python app.py
+python main.py
