@@ -1,0 +1,11 @@
+{
+    "token": "paste_your_actual_bot_token_here",
+    "theme": "dark",
+    "remember_token": true,
+    "show_notifications": true,
+    "play_sound": true,
+    "auto_reconnect": true,
+    "load_history": true,
+    "history_limit": 100,
+    "cache_messages": true
+}
